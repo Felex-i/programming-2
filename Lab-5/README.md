@@ -1,8 +1,8 @@
 # ЛР 5. Мемоизация gen_bin_tree
 
-Вариант 3: `root = 3`, `height = 4`, `left_leaf = x + 2`, `right_leaf = x * 3`.
-Вариант 13: `root = 13`, `height = 3`, `left_leaf = x + 1`, `right_leaf = x - 1`.
-
+- **Вариант 3:** `root = 3`, `height = 4`, `left_leaf = x + 2`, `right_leaf = x * 3`
+- **Вариант 13:** `root = 13`, `height = 3`, `left_leaf = x + 1`, `right_leaf = x - 1`
+  
 ## Файлы
 - `memo_tree.py` - `memoize`, исходные функции из ЛР 3 и ЛР 4, мемоизованные версии, версия на `lru_cache`;
 - `test_memo_tree.py` - тесты (`python -m unittest -v`; в Colab: `unittest.main(argv=[''], verbosity=2, exit=False)`);
