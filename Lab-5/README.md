@@ -1,4 +1,5 @@
 # ЛР 5. Мемоизация gen_bin_tree
+## Автор: Ерохина Анастасия, ИВТ-2(1)
 
 - **Вариант 3:** `root = 3`, `height = 4`, `left_leaf = x + 2`, `right_leaf = x * 3`
 - **Вариант 13:** `root = 13`, `height = 3`, `left_leaf = x + 1`, `right_leaf = x - 1`
